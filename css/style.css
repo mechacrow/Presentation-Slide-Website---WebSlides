@@ -1,0 +1,12 @@
+.button {
+    background-color: #FAADCD;
+    border: 1px solid #FAADCD;
+}
+
+.button:hover {
+    background-color: #262626;
+}
+
+.flexblock.features li img {
+    width: 100%;
+}
